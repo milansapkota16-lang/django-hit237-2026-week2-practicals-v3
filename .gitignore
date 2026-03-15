@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Database
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor directories
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
